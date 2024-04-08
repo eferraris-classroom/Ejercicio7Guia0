@@ -6,5 +6,5 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(Ejercicio7Guia0
-        Ejercicio7guia0.c
-        Ejercicio7guia0.h)
+        Ejercicio5guia0.c
+        Ejercicio5guia0.h)
